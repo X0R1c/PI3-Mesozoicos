@@ -14,6 +14,7 @@ namespace PI3_Mesozoicos {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            Console.WriteLine();
         }
     }
 }
