@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PI3-Mesozoicos")]
+[assembly: AssemblyTitle("Mesozoicos")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PI3-Mesozoicos")]
+[assembly: AssemblyProduct("Mesozoicos")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("aea7ad3b-dd8e-486e-a764-096fd1aec948")]
+[assembly: Guid("2a3e7a3c-9e94-4ad1-9c8e-91b2561553c5")]
 
 // Version information for an assembly consists of the following four values:
 //

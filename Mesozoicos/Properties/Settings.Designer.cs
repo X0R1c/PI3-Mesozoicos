@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PI3_Mesozoicos.Properties {
+namespace Mesozoicos.Properties {
 
 
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

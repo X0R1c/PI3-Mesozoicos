@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AEA7AD3B-DD8E-486E-A764-096FD1AEC948}</ProjectGuid>
+    <ProjectGuid>{2A3E7A3C-9E94-4AD1-9C8E-91B2561553C5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PI3_Mesozoicos</RootNamespace>
-    <AssemblyName>PI3-Mesozoicos</AssemblyName>
+    <RootNamespace>Mesozoicos</RootNamespace>
+    <AssemblyName>Mesozoicos</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,9 +54,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
